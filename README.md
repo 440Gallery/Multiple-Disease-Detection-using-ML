@@ -1,6 +1,6 @@
 # Multiple-Disease-Detection-using-ML
 
-![Home Page](https://github.com/440Gallery/Multiple Disease Detection using ML/assets/146010223/c762b786-1a55-4691-b7c0-9c3966ac5b0b)
+![Home Page](https://github.com/440Gallery/Multiple-Disease-Detection-using-ML/assets/146010223/c762b786-1a55-4691-b7c0-9c3966ac5b0b)
 
 Multiple Disease Prediction System using Machine Learning: This project provides a streamlit web application for predicting multiple diseases, including diabetes, Parkinson's disease, and heart disease, using machine learning algorithms. The prediction models are deployed using Streamlit, a Python library for building interactive web applications.
 
@@ -34,7 +34,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/440gallery/Multiple Disease Detection using ML/tree/main
+git clone https://github.com/440Gallery/Multiple-Disease-Detection-using-ML.git
 ```
 
 2. Install the required dependencies by running:
@@ -43,9 +43,7 @@ git clone https://github.com/440gallery/Multiple Disease Detection using ML/tree
 pip install -r requirements.txt
 ```
 
-3. Download the pre-trained machine learning models for diabetes, Parkinson's disease, and heart disease. Make sure to place them in the appropriate directories within the project structure.
-
-4. Update the necessary configurations and file paths in the project files.
+3. The pre-trained machine learning models are included in the repository.
 
 ## Usage
 

@@ -1,0 +1,4 @@
+streamlit
+numpy
+streamlit-option-menu
+scikit-learn
