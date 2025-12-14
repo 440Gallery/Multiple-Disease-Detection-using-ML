@@ -1,4 +1,4 @@
-# Multiple-Disease-Prediction-System-using-Machine-Learning
+# Multiple-Disease-Detection-using-ML
 
 ![Home Page](https://github.com/440Gallery/Multiple Disease Detection using ML/assets/146010223/c762b786-1a55-4691-b7c0-9c3966ac5b0b)
 
