@@ -7,8 +7,10 @@ Multiple Disease Prediction System using Machine Learning: This project provides
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Research Paper](#research-paper)
 - [Features](#features)
 - [Setup](#setup)
+- [Deployment](#deployment)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -16,6 +18,12 @@ Multiple Disease Prediction System using Machine Learning: This project provides
 ## Introduction
 
 The Multiple Disease Prediction project aims to create a user-friendly web application that allows users to input relevant medical information and receive predictions for different diseases. The machine learning models trained on disease-specific datasets enable accurate predictions for diabetes, Parkinson's disease, and heart disease.
+
+## Research Paper
+
+![Research Paper](IRJET.jpg)
+
+This project is based on the research paper from IRJET.
 
 ## Features
 
