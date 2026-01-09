@@ -45,16 +45,37 @@ pip install -r requirements.txt
 
 3. The pre-trained machine learning models are included in the repository.
 
+## Deployment
+
+### Streamlit Cloud
+
+To deploy the application on Streamlit Cloud:
+
+1. Go to https://share.streamlit.io.
+2. Sign in with your GitHub account.
+3. Click "New app".
+4. Select the repository "440Gallery/Multiple-Disease-Detection-using-ML".
+5. Set the main file path to "app.py".
+6. Click "Deploy".
+
+The app will be live at a URL provided by Streamlit Cloud.
+
 ## Usage
 
-To run the Multiple Disease Prediction web application, follow these steps:
+### Online Deployment
+
+The application is deployed on Streamlit Cloud and can be accessed at: https://multiple-disease-detection-using-ml.streamlit.app/
+
+### Local Setup
+
+To run the Multiple Disease Prediction web application locally, follow these steps:
 
 1. Open a terminal or command prompt and navigate to the project directory.
 
 2. Run the following command to start the Streamlit application:
 
 ```bash
-streamlit run multiplediseaseprediction.py
+streamlit run app.py
 ```
 
 3. Access the web application by opening the provided URL in your web browser.
